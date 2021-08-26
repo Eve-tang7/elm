@@ -1,0 +1,110 @@
+.content {
+  height: 2000rpx;
+}
+.content .sticky {
+  width: 750rpx;
+  height: 90rpx;
+  background-color: #3190e8;
+  color: #fff;
+  padding: 24rpx;
+}
+.content .navBar {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  line-height: 90rpx;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+          justify-content: space-between;
+}
+.content .navBar .addressBar {
+  line-height: 100%;
+  font-size: 33rpx;
+  width: 450rpx;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+.content .badge-icon {
+  position: absolute;
+  top: 30rpx;
+  right: 30rpx;
+  width: 40rpx;
+  height: 40rpx;
+}
+.content .badge1-icon {
+  position: absolute;
+  top: 0rpx;
+  right: 0rpx;
+  width: 60rpx;
+  height: 60rpx;
+}
+.content .merList {
+  padding: 20rpx;
+}
+.content .merList .merImg {
+  width: 140rpx;
+  height: 140rpx;
+}
+.content .merList .swiper-item {
+  height: 550rpx;
+}
+.content .merList .shopList {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  padding: 20rpx;
+}
+.content .merList .shopImg {
+  width: 130rpx;
+  height: 130rpx;
+}
+.content .merList .shopDetail {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: column;
+          flex-direction: column;
+  width: 70%;
+  margin-left: 20rpx;
+}
+.content .merList .shopName {
+  font-size: 32rpx;
+  color: #000;
+}
+.content .merList .shopMark {
+  font-size: 22rpx;
+  color: #666;
+  margin: 10rpx 0;
+}
+.content .merList .shopPei {
+  font-size: 24rpx;
+  color: #666;
+}
+.content .merList .shopYou {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: column;
+          flex-direction: column;
+  margin-right: 20rpx;
+}
+.content .merList .baoSo {
+  font-size: 24rpx;
+  color: #666;
+}
+.content .merList .bird {
+  font-size: 22rpx;
+  color: #666;
+  margin: 10rpx 0;
+}
+.content .merList .kilometre {
+  font-size: 24rpx;
+  color: #666;
+  width: 100rpx;
+}
+

@@ -1,0 +1,62 @@
+.u-border-bottom.data-v-b237504c {
+  height: 100rpx;
+  padding-left: 30rpx;
+}
+.checkMsg.data-v-b237504c {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+          justify-content: space-between;
+}
+.checkMsg .checkPart.data-v-b237504c {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+          justify-content: space-between;
+}
+.checkMsg .checkPart .checkImg.data-v-b237504c {
+  margin-right: 10rpx;
+}
+.u-border-bottom.data-v-b237504c {
+  -webkit-box-flex: 1;
+  -webkit-flex: 1;
+          flex: 1;
+}
+.changeCheck.data-v-b237504c {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: column;
+          flex-direction: column;
+  margin-right: 20rpx;
+}
+.changeCheck .nextCheck.data-v-b237504c {
+  color: #3190e8;
+  margin-top: 20rpx;
+}
+.loginTip.data-v-b237504c {
+  color: red;
+}
+.loginTip text.data-v-b237504c {
+  display: block;
+  padding: 20rpx 30rpx;
+}
+.loginBtn.data-v-b237504c {
+  padding: 0 30rpx;
+}
+.resetPassword.data-v-b237504c {
+  color: #3190e8;
+  position: relative;
+}
+.resetPassword text.data-v-b237504c {
+  position: absolute;
+  top: 40rpx;
+  right: 30rpx;
+}
+

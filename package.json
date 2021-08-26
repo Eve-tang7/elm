@@ -1,0 +1,25 @@
+{
+  "name": "elm",
+  "version": "1.0.0",
+  "description": "{**When you're done, you can delete the content in this README and update the file with details for others getting started with your repository**}",
+  "main": "main.js",
+  "dependencies": {
+    "node-sass": "^6.0.1",
+    "sass-loader": "^12.1.0",
+    "swiper": "^6.8.1",
+    "uview-ui": "^1.8.4",
+    "vuex": "^3.6.2",
+    "weapp-cookie": "^1.4.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://gitee.com/zipei/elm.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

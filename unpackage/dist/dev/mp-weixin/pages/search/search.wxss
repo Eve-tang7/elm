@@ -1,0 +1,78 @@
+
+page{
+	background-color: #ededed;
+}
+.searchBox{
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	background-color: #fff;
+}
+.search{
+	-webkit-box-flex: 6;
+	-webkit-flex: 6;
+	        flex: 6;
+	line-height: 70rpx;
+	border: 1rpx solid #e4e4e4;
+	color: #333;
+	border-radius: 0.5rpx;
+	background-color: #f2f2f2;
+	font-weight: 700;
+}
+.searchBtn{
+	-webkit-box-flex: 1;
+	-webkit-flex: 1;
+	        flex: 1;
+	line-height: 70rpx;
+	border: 1rpx solid #3190e8;
+	margin-left:20rpx;
+	color: #fff;
+	border-radius: 5rpx;
+	background-color: #3190e8;
+	font-weight: 700;
+	font-size: 35rpx;
+}
+.searchHistory{
+	background-color: #fff;
+}
+.historyName{
+	width: 100%;
+}
+.historyItem{
+	color: #666;
+	border-bottom: 1rpx solid #ededed;
+}
+.historyItem view{
+	font-size: 33rpx;
+}
+.clearHistory{
+	padding: 30rpx 0;
+	text-align: center;
+	font-weight: 700;
+	color: #3190e8;
+}
+/* 商家列表 */
+.listBox{
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	line-height: 60rpx;
+	padding: 20rpx;
+	background-color: #fff;
+	border-bottom: 1rpx solid #ededed;
+}
+.shopImg {
+	width: 120rpx;
+	height: 120rpx;
+}
+.shopMsg{
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-orient: vertical;
+	-webkit-box-direction: normal;
+	-webkit-flex-direction: column;
+	        flex-direction: column;
+	padding-left: 20rpx;
+}
+
