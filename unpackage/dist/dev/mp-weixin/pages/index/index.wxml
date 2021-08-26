@@ -1,1 +1,0 @@
-<view class="content _div"><image class="logo" src="/static/logo.png"></image><view class="text-area _div"><view class="title _p">{{title}}</view></view></view>
